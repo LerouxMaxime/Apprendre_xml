@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliotheque SYSTEM "bibliotheque.dtd">
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<bibliotheque>
+    
+    <allee>
+        <rayons>
+            <ouvrages>
+                <titre>Le papillon des étoiles</titre>
+                <auteur>Bernard WERBER</auteur>
+                <numeroO></numeroO>
+                <TypeDouvrages nom="litterature"/>
+            </ouvrages>
+            <ouvrages>
+                <titre>Les Formes de base</titre>
+                <auteur>Daniele DUMONT</auteur>
+                <numeroO></numeroO>
+                <TypeDouvrages>manuelScolaire</TypeDouvrages>
+            </ouvrages>
+            <ouvrages>
+                <titre>XML et XSL : Les feuilles de style XML</titre>
+                <auteur>Cyril VINCENT</auteur>
+                <numeroO></numeroO>
+                <TypeDouvrages>scienceEtTechnologie</TypeDouvrages>
+            </ouvrages>
+        </rayons>
+        <rayons>
+            <ouvrages>
+                <titre>LINUX Magazine</titre>
+                <auteur></auteur>
+                <numeroO>102</numeroO>
+                <TypeDouvrages>periodique</TypeDouvrages>
+            </ouvrages>
+            <ouvrages>
+                <titre>CLOSER</titre>
+                <auteur></auteur>
+                <numeroO></numeroO>
+                <TypeDouvrages>periodique</TypeDouvrages>
+            </ouvrages>
+            <ouvrages>
+                <titre>Harry Potter</titre>
+                <auteur>JK ROLLIN</auteur>
+                <numeroO>1</numeroO>
+                <TypeDouvrages>litterature</TypeDouvrages>
+            </ouvrages>
+        </rayons>
+    </allee>
+    <allee>
+        <rayons>
+            <ouvrages>
+                <titre>Jeu de nains</titre>
+                <auteur>Terry PRATCHETT</auteur>
+                <numeroO>31</numeroO>
+                <TypeDouvrages>litterature</TypeDouvrages>
+            </ouvrages>
+        </rayons>
+        <rayons>
+            <ouvrages>
+                <titre>Fondation</titre>
+                <auteur>Isaac Asimov</auteur>
+                <numeroO>2</numeroO>
+                <TypeDouvrages>litterature</TypeDouvrages>
+            </ouvrages>
+            <ouvrages>
+                <titre>Ajax, jQuery et PHP</titre>
+                <auteur>Jean-marie DEFRANCE</auteur>
+                <numeroO></numeroO>
+                <TypeDouvrages>scienceEtTechnique</TypeDouvrages>
+            </ouvrages>
+        </rayons>
+    </allee>
+        
+</bibliotheque>
